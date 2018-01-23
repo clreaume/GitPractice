@@ -8,7 +8,8 @@ public class NewGitDemo {
 		System.out.println("Please enter your first name: ");
 		String name = input.nextLine();
 		System.out.println(name);
-
+		
+//blah blah here is a comment
 	}
 
 }
